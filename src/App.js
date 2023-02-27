@@ -10,7 +10,7 @@ import pokemonList from './data';
 import Routes from './routes';
 
 import './App.css';
-// primeiro commit
+
 class App extends Component {
   constructor(props) {
     super(props);
